@@ -5,6 +5,6 @@ Pytorch Lightning과 transformer를 활용합니다.
 
 # 1. Sentiment Classification
 Naver sentiment movie corpus v1.0 데이터셋을 활용했습니다.
-"""
 https://github.com/e9t/nsmc
-"""
+
+Acc : 90.68%
