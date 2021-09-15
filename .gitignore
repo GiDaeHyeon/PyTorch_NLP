@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 */.ipynb_checkpoints
 */.DS_Store
+
+# Sentiment Classification
+Sentiment_Classification/nmsc
+Sentiment_Classification/nmsc_ckpt
