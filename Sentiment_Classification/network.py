@@ -2,15 +2,14 @@ from torch.nn import Module, Linear, Dropout, LeakyReLU, Sequential
 from torch.nn.functional import log_softmax
 from transformers import BertModel
 
-from config import WEIGHT, NUM_CLASSES, FREEZE
-
 
 class BertModelForSentimentClassification(Module):
     def __init__(self,
-                 n_classes=NUM_CLASSES,
-                 freeze=FREEZE):
+                 weight=None,
+                 n_classes=None,
+                 freeze=None):
         super().__init__()
-        self.model = BertModel.from_pretrained(WEIGHT)
+        self.model = BertModel.from_pretrained(weight)
 
         if freeze:
             for param in self.model.encoder.parameters():
