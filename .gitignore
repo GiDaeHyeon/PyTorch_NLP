@@ -127,9 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+*.ipynb
+*/*.ipynb
 */.ipynb_checkpoints
 */.DS_Store
 
 # Sentiment Classification
 Sentiment_Classification/nsmc_log
 Sentiment_Classification/nsmc_ckpt
+
