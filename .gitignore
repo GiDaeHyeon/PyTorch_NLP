@@ -134,6 +134,6 @@ dmypy.json
 */.DS_Store
 
 # Sentiment Classification
-Sentiment_Classification/nsmc_log
-Sentiment_Classification/nsmc_ckpt
+*/nsmc_log
+*/nsmc_ckpt
 
