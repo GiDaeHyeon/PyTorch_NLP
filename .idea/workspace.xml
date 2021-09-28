@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ad1a10f-6193-4b74-9d1a-94a04584b829" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sentiment_Classification_CNN/dataloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment_Classification_CNN/dataloader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sentiment_Classification_CNN/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment_Classification_CNN/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sentiment_Classification_CNN/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment_Classification_CNN/network.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sentiment_Classification_CNN/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment_Classification_CNN/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +60,7 @@
       <workItem from="1632738908472" duration="7653000" />
       <workItem from="1632831926509" duration="107000" />
       <workItem from="1632832037301" duration="199000" />
-      <workItem from="1632832258276" duration="1162000" />
+      <workItem from="1632832258276" duration="1862000" />
     </task>
     <servers />
   </component>
